@@ -1,16 +1,7 @@
-### 👋 Hi there, I'm **Elavarasan**!                     ![Hello GIF](https://media.giphy.com/media/ShCa2NzwuTiqiISwGv/giphy.gif)
+### 👋 Hi there, I'm **Elavarasan**! 
+![Hello GIF](https://media.giphy.com/media/ShCa2NzwuTiqiISwGv/giphy.gif)
 
-
-
-
-
-
-
-
-
-💡 **Passionate Explorer** | 🌐**Web Developer in the Making**  | 🚀 **App Development Enthusiast**
-
-
+💡 **Passionate Explorer** | 🌐 **Web Developer in the Making** | 🚀 **App Development Enthusiast**
 
 ![Web Developer in the Making](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
@@ -26,20 +17,20 @@
 
 ### 🛠️ **My Toolbox**:
 - **Languages**: HTML5, Python, JavaScript, Java
-- **Frameworks**: Android, Node.js, React , Bootstrap
+- **Frameworks**: Android, Node.js, React, Bootstrap
 - **Tools**: Git, Firebase, Docker, VS Code
 
 ---
 
 ### 🌟 **Projects**:
 - 📱 **App Development**: Working on a pet care app, 'Paws,' to manage pet details and appointments.
-- 🌐 **Web Projects**: Experimenting with responsive designs and dynamic websites also done a Food Delivery Website.
+- 🌐 **Web Projects**: Experimenting with responsive designs and dynamic websites; also created a Food Delivery Website.
 - 💡 **Innovative Ideas**: Constantly brainstorming and prototyping new concepts.
 
 ---
 
 ### 🌍 **Connect with Me**:
-- 📧 **Email**: ela16042003@gmail.com
+- 📧 **Email**: [ela16042003@gmail.com](mailto:ela16042003@gmail.com)
 - 💼 **LinkedIn**: [Elavarasan on LinkedIn](https://www.linkedin.com/in/elavarasan-v-610925277)
 
 ---
