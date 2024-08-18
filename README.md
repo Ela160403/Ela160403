@@ -1,9 +1,5 @@
-### 👋 Hi there, I'm **<span style="font-size: 5em;">Elavarasan</span>**!
+### 👋 Hi there, I'm **<span style="font-size: 15em;">Elavarasan</span>**!
 
-<div style="display: flex; align-items: center;">
-  <img src="https://media.giphy.com/media/ShCa2NzwuTiqiISwGv/giphy.gif" width="100" height="100" style="margin-right: 20px;" alt="Hello GIF">
-  <div>
-  
   </div>
 </div>
   💡 Passionate Explorer** | 🌐 Web Developer in the Making | 🚀 App Development Enthusiast
