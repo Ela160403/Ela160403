@@ -64,10 +64,16 @@
 - 💡 **Innovative Ideas**: Brainstorming and prototyping new concepts.
 
 ---
-
 ### 🌍 **Connect with Me**:
-- 📧 **Email**: [ela16042003@gmail.com](mailto:ela16042003@gmail.com)
-- 💼 **LinkedIn**: [Elavarasan on LinkedIn](https://www.linkedin.com/in/elavarasan-v-610925277)
+
+<p align="center">
+  <a href="mailto:ela16042003@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/elavarasan-v-610925277">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
