@@ -21,7 +21,7 @@
 
 ### 🌟 **Projects**:
 - 📱 **App Development**: Working on a pet care app, 'Paws,' to manage pet details and appointments.
-- 🌐 **Web Projects**: Experimenting with responsive designs and dynamic websites.
+- 🌐 **Web Projects**: Experimenting with responsive designs and dynamic websites also done a Food Delivery Website.
 - 💡 **Innovative Ideas**: Constantly brainstorming and prototyping new concepts.
 
 ---
