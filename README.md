@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm **Elavarasan**!
+### 👋 Hi there, I'm **<span style="font-size: 2em;">Elavarasan</span>**!
 
 <div style="display: flex; align-items: center;">
   <img src="https://media.giphy.com/media/ShCa2NzwuTiqiISwGv/giphy.gif" width="100" height="100" style="margin-right: 20px;" alt="Hello GIF">
@@ -7,9 +7,10 @@
   </div>
 </div>
 
-<!-- Centered image using a table -->
-| ![Web Developer in the Making](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif) |
-|:--:|
+<!-- Centered image using a table with reduced size -->
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" height="113" alt="Web Developer in the Making">
+</p>
 
 ---
 
