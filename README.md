@@ -21,42 +21,43 @@
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5">
   </a>
   <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript">
   </a>
   <a href="https://www.java.com/en/">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java">
   </a>
   <a href="https://developer.android.com/">
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+    <img src="https://img.icons8.com/color/48/000000/android-os.png" alt="Android">
   </a>
   <a href="https://nodejs.org/">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js">
   </a>
   <a href="https://reactjs.org/">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React">
   </a>
   <a href="https://getbootstrap.com/">
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap">
   </a>
   <a href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git">
   </a>
   <a href="https://firebase.google.com/">
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+    <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase">
   </a>
   <a href="https://www.docker.com/">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+    <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker">
   </a>
   <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+    <img src="https://img.icons8.com/color/48/000000/visual-studio-code.png" alt="VS Code">
   </a>
 </p>
+
 
 ---
 
