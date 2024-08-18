@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm **<span style="font-size: 15em;">Elavarasan</span>**!
+### 👋 Hi there, I'm **<span style="font-size: 35em;">Elavarasan</span>**!
 
   </div>
 </div>
