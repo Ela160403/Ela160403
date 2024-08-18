@@ -1,6 +1,12 @@
 ### 👋 Hi there, I'm **Elavarasan**!
 
 
+
+
+
+
+
+
 💡 **Passionate Explorer** | 🌐**Web Developer in the Making**  | 🚀 **App Development Enthusiast**
 
 
