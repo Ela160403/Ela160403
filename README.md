@@ -1,10 +1,11 @@
 ### 👋 Hi there, I'm **Elavarasan**!
 
 
+💡 **Passionate Explorer** | 🌐**Web Developer in the Making**  | 🚀 **App Development Enthusiast**
+
+
 
 ![Web Developer in the Making](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
-
-💡 **Passionate Explorer** | 🌐  | 🚀 **App Development Enthusiast**
 
 ---
 
