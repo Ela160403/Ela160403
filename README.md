@@ -7,9 +7,9 @@
   </div>
 </div>
 
-<div style="text-align: center;">
-  ![Web Developer in the Making](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
-</div>
+<!-- Centered image using a table -->
+| ![Web Developer in the Making](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif) |
+|:--:|
 
 ---
 
