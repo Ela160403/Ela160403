@@ -1,34 +1,32 @@
-### 👋 Hi there, I'm **<span style="font-size: 2.5em; font-family: 'Arial', sans-serif; color: #2E8B57;">Elavarasan</span>**!
+# 👋 Hi there, I'm **<span style="font-size: 3em; font-family: 'Segoe UI', sans-serif; color: #4A90E2;">Elavarasan</span>**!
 
-  </div>
-</div>
-  💡 Passionate Explorer** | 🌐 Web Developer in the Making | 🚀 App Development Enthusiast
-<!-- Centered image using a table with reduced size -->
-<p align="left">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" height="113" alt="Web Developer in the Making">
+💡 **Passionate Explorer** | 🌐 **Web Developer in the Making** | 🚀 **App Development Enthusiast**
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250" height="141" alt="Web Developer in the Making">
 </p>
 
 ---
 
 ### 🚀 **About Me**:
-- 🌟 **Curiosity-Driven**: I'm always eager to explore new fields and technologies.
-- 🌱 **Currently Diving Into**: The world of app development, mastering the art of building engaging mobile experiences.
+- 🌟 **Curiosity-Driven**: Always eager to explore new fields and technologies.
+- 🌱 **Currently Diving Into**: Mastering the art of building engaging mobile experiences.
 - 🎯 **Interests**: Web development, creating intuitive user interfaces, and exploring cutting-edge tech.
-- 🌐 **Tech Explorer**: I love to push boundaries and learn something new every day.
+- 🌐 **Tech Explorer**: Pushing boundaries and learning something new every day.
 
 ---
 
 ### 🛠️ **My Toolbox**:
-- **Languages**: HTML5, Python, JavaScript, Java
-- **Frameworks**: Android, Node.js, React, Bootstrap
-- **Tools**: Git, Firebase, Docker, VS Code
+- **Languages**: <span style="font-weight: bold; color: #E94E77;">HTML5</span>, <span style="font-weight: bold; color: #E94E77;">Python</span>, <span style="font-weight: bold; color: #E94E77;">JavaScript</span>, <span style="font-weight: bold; color: #E94E77;">Java</span>
+- **Frameworks**: <span style="font-weight: bold; color: #50E3C2;">Android</span>, <span style="font-weight: bold; color: #50E3C2;">Node.js</span>, <span style="font-weight: bold; color: #50E3C2;">React</span>, <span style="font-weight: bold; color: #50E3C2;">Bootstrap</span>
+- **Tools**: <span style="font-weight: bold; color: #F5A623;">Git</span>, <span style="font-weight: bold; color: #F5A623;">Firebase</span>, <span style="font-weight: bold; color: #F5A623;">Docker</span>, <span style="font-weight: bold; color: #F5A623;">VS Code</span>
 
 ---
 
 ### 🌟 **Projects**:
-- 📱 **App Development**: Working on a pet care app, 'Paws,' to manage pet details and appointments.
-- 🌐 **Web Projects**: Experimenting with responsive designs and dynamic websites; also created a Food Delivery Website.
-- 💡 **Innovative Ideas**: Constantly brainstorming and prototyping new concepts.
+- 📱 **App Development**: Developing 'Paws,' a pet care app for managing pet details and appointments.
+- 🌐 **Web Projects**: Creating responsive designs and dynamic websites; developed a Food Delivery Website.
+- 💡 **Innovative Ideas**: Brainstorming and prototyping new concepts.
 
 ---
 
@@ -39,8 +37,8 @@
 ---
 
 ### 🔥 **Fun Facts**:
-- 🧭 **Explorer at Heart**: I have an insatiable curiosity and love diving into new things, whether it's tech, ideas, or hobbies.
-- 📚 **Comic & Manga Enthusiast**: I spend hours lost in the worlds of comics, mangas, and fantasies—perfect escapes after a day of learning.
-- 🎯 **Consistent Improver**: Always striving to improve, whether it's in my skills, habits, or projects.
+- 🧭 **Explorer at Heart**: Insatiable curiosity and love for diving into new tech, ideas, and hobbies.
+- 📚 **Comic & Manga Enthusiast**: Enjoys escaping into the worlds of comics, mangas, and fantasies.
+- 🎯 **Consistent Improver**: Always striving to enhance skills, habits, and projects.
 
 ---
