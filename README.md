@@ -54,7 +54,7 @@
     <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker">
   </a>
  <a href="https://code.visualstudio.com/">
-    <img src="https://img.icons8.com/color/48/000000/visual-studio-code.png" alt="VS Code">
+    <img src="https://w7.pngwing.com/pngs/210/953/png-transparent-microsoft-visual-studio-code-alt-macos-bigsur-icon.png" alt="VS Code">
   </a>
 </p>
 
