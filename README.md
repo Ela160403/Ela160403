@@ -1,9 +1,15 @@
-### 👋 Hi there, I'm **Elavarasan**! 
-![Hello GIF](https://media.giphy.com/media/ShCa2NzwuTiqiISwGv/giphy.gif)
+### 👋 Hi there, I'm **Elavarasan**!
 
-💡 **Passionate Explorer** | 🌐 **Web Developer in the Making** | 🚀 **App Development Enthusiast**
+<div style="display: flex; align-items: center;">
+  <img src="https://media.giphy.com/media/ShCa2NzwuTiqiISwGv/giphy.gif" width="100" height="100" style="margin-right: 20px;" alt="Hello GIF">
+  <div>
+    💡 **Passionate Explorer** | 🌐 **Web Developer in the Making** | 🚀 **App Development Enthusiast**
+  </div>
+</div>
 
-![Web Developer in the Making](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+<div style="text-align: center;">
+  ![Web Developer in the Making](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+</div>
 
 ---
 
