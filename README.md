@@ -6,7 +6,7 @@
   
   </div>
 </div>
-  💡 **Passionate Explorer** | 🌐 **Web Developer in the Making** | 🚀 **App Development Enthusiast**
+####  💡 **Passionate Explorer** | 🌐 **Web Developer in the Making** | 🚀 **App Development Enthusiast**
 <!-- Centered image using a table with reduced size -->
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" height="113" alt="Web Developer in the Making">
