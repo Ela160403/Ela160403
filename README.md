@@ -83,3 +83,11 @@
 - 🎯 **Consistent Improver**: Always striving to enhance skills, habits, and projects.
 
 ---
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ela160403&show_icons=true&locale=en&layout=compact" alt="ela160403" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ela160403&show_icons=true&locale=en" alt="ela160403" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ela160403&" alt="ela160403" /></p>
+
