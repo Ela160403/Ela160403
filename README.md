@@ -34,7 +34,7 @@
 <a href="https://instagram.com/prince__ebinazer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prince__ebinazer" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ela16042003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ela16042003" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@ela16042003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ela16042003" height="30" width="40" /></a><a href="https://www.cloudskillsboost.google/public_profiles/2cf2cb55-8aa4-43f2-b150-40875e803663" target="blank">
-    <img align="center" src="https://www.gstatic.com/devrel-devsite/prod/v3fbfa1d82f8d4ff7d0e5f7ff69c9fd720c7b1c11a3021c3a53a80977ec9e3b61/cloud/images/favicons/onecloud/favicon.ico" alt="Google Cloud" height="30" width="40" />
+    <img align="center" src=""https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" height="30" width="40" />
   </a>
 </p>
 
