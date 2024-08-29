@@ -27,7 +27,8 @@
 - 🌐 **Web Projects**: Creating responsive designs and dynamic websites; developed a Food Delivery Website.
 - 💡 **Innovative Ideas**: Brainstorming and prototyping new concepts.
 
----### 🌍 **Connect with Me**:
+---
+### 🌍 **Connect with Me**:
 <p align="center">
   <a href="https://linkedin.com/in/elavarasan-v-610925277" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elavarasan-v-610925277" height="30" width="40" />
