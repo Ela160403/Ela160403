@@ -37,7 +37,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prince__ebinazer" height="30" width="40" />
   </a>
   <a href="https://www.codechef.com/users/ela16042003" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
+<img align="center" src="https://img.shields.io/badge/CodeChef-CC-CC6600?logo=codechef&logoColor=white&style=flat" alt="CodeChef" height="30" width="100" />
 
   </a>
   <a href="https://www.hackerrank.com/@ela16042003" target="blank">
